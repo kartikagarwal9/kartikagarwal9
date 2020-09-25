@@ -33,6 +33,6 @@
 <a href="https://instagram.com/kartik_agarwal99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kartik_agarwal99" height="30" width="30" /></a>
 <a href="https://medium.com/@kartikagrawal7196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@kartikagrawal7196" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc9jy8gou8ofppgjoazznq6a?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc9jy8gou8ofppgjoazznq6a?view_as=subscriber" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/kartik agarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kartik agarwal" height="30" width="30" /></a>
+<a href="https://www.codechef.com/users/kat199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kartik agarwal" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/kartikagrawal711" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kartikagrawal711" height="30" width="30" /></a>
 </p>
