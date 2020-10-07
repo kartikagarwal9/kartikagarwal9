@@ -35,4 +35,7 @@
 <a href="https://www.youtube.com/channel/UC9Jy8gOu8oFpPgjoazznQ6A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/UC9Jy8gOu8oFpPgjoazznQ6A" height="30" width="30" /></a>
 <a href="https://www.codechef.com/users/kat199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kartik agarwal" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/kartikagrawal711" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kartikagrawal711" height="30" width="30" /></a>
+<a href="https://dev.to/kartikagarwal9">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kartik Agarwal's DEV Profile" height="30" width="30">
+</a>
 </p>
