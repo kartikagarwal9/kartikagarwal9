@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikagarwal9" alt="kartikagarwal9" /> </p>
 
-- 🔭 I’m currently working on [LearnHub](mylearnhub.online)
+- 🔭 I’m currently working on [LearnHub](https://mylearnhub.online)
 
 - 🌱 I’m currently learning **Machine Learning , Adobe Illustrator , Ethical Hacking**
 
-- 👯 I’m looking to collaborate on [Hackscript](hackscript.tech)
+- 👯 I’m looking to collaborate on [Hackscript](https://hackscript.tech)
 
 - 👨‍💻 All of my projects are available at [www.kartikagrawal.in](https://kartikagrawal.in/)
 
