@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on [Hackscript](hackscript.tech)
 
-- 👨‍💻 All of my projects are available at [www.kartikagrawal.in](www.kartikagrawal.in)
+- 👨‍💻 All of my projects are available at [www.kartikagrawal.in](https://kartikagrawal.in/)
 
 - 📝 I regulary write articles on [https://medium.com/@kartikagrawal7196](https://medium.com/@kartikagrawal7196)
 
