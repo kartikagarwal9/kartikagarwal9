@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Website and App Dev(Front and Back-End) , BlockChain Contracting , React , Ethical Hacking , Kotlin and more**
 
-- 📫 How to reach me **kartikagrawal7196@gmail.com**
+- 📫 How to reach me **kartikagrawal7196@gmail.com** OR **info@kartikagrawal.in**
 
 - ⚡ Hackathon- [Won Hack For Africa by Microsoft Hackathon](https://devpost.com/software/locust-build)
 
