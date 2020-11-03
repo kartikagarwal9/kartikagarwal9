@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [LearnHub](http://mylearnhub.online)
 
-- 🌱 I’m currently learning **Machine Learning , Adobe Illustrator , Ethical Hacking**
+- 🌱 I’m currently learning **Machine Learning , Deep Learning , Adobe Illustrator , Ethical Hacking**
 
 - 👯 I’m looking to collaborate on [Hackscript](http://hackscript.tech)
 
